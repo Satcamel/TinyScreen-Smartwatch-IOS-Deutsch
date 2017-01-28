@@ -10,7 +10,7 @@
 //  if it has problems reconnecting, and reset the TinyDuino.
 //
 //  Written by Ben Rose, TinyCircuits http://Tiny-Circuits.com
-//
+//  Modded by Satcamel
 //-------------------------------------------------------------------------------
 
 #include <Wire.h>
